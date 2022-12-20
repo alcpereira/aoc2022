@@ -1,0 +1,182 @@
+[
+  {
+    potentialPressure: 358,
+    valves: [ 'AA', 'BB', 'CC' ],
+    valvesHuman: [ 'AA', 'BB' ],
+    valvesElephant: [ 'AA', 'CC' ]
+  },
+  {
+    potentialPressure: 358,
+    valves: [ 'AA', 'CC', 'BB' ],
+    valvesHuman: [ 'AA', 'CC' ],
+    valvesElephant: [ 'AA', 'BB' ]
+  },
+  {
+    potentialPressure: 792,
+    valves: [ 'AA', 'BB', 'DD' ],
+    valvesHuman: [ 'AA', 'BB' ],
+    valvesElephant: [ 'AA', 'DD' ]
+  },
+  {
+    potentialPressure: 381,
+    valves: [ 'AA', 'BB', 'EE' ],
+    valvesHuman: [ 'AA', 'BB' ],
+    valvesElephant: [ 'AA', 'EE' ]
+  },
+  {
+    potentialPressure: 752,
+    valves: [ 'AA', 'BB', 'HH' ],
+    valvesHuman: [ 'AA', 'BB' ],
+    valvesElephant: [ 'AA', 'HH' ]
+  },
+  {
+    potentialPressure: 795,
+    valves: [ 'AA', 'BB', 'JJ' ],
+    valvesHuman: [ 'AA', 'BB' ],
+    valvesElephant: [ 'AA', 'JJ' ]
+  },
+  {
+    potentialPressure: 526,
+    valves: [ 'AA', 'CC', 'DD' ],
+    valvesHuman: [ 'AA', 'CC' ],
+    valvesElephant: [ 'AA', 'DD' ]
+  },
+  {
+    potentialPressure: 115,
+    valves: [ 'AA', 'CC', 'EE' ],
+    valvesHuman: [ 'AA', 'CC' ],
+    valvesElephant: [ 'AA', 'EE' ]
+  },
+  {
+    potentialPressure: 486,
+    valves: [ 'AA', 'CC', 'HH' ],
+    valvesHuman: [ 'AA', 'CC' ],
+    valvesElephant: [ 'AA', 'HH' ]
+  },
+  {
+    potentialPressure: 529,
+    valves: [ 'AA', 'CC', 'JJ' ],
+    valvesHuman: [ 'AA', 'CC' ],
+    valvesElephant: [ 'AA', 'JJ' ]
+  },
+  {
+    potentialPressure: 792,
+    valves: [ 'AA', 'DD', 'BB' ],
+    valvesHuman: [ 'AA', 'DD' ],
+    valvesElephant: [ 'AA', 'BB' ]
+  },
+  {
+    potentialPressure: 526,
+    valves: [ 'AA', 'DD', 'CC' ],
+    valvesHuman: [ 'AA', 'DD' ],
+    valvesElephant: [ 'AA', 'CC' ]
+  },
+  {
+    potentialPressure: 549,
+    valves: [ 'AA', 'DD', 'EE' ],
+    valvesHuman: [ 'AA', 'DD' ],
+    valvesElephant: [ 'AA', 'EE' ]
+  },
+  {
+    potentialPressure: 920,
+    valves: [ 'AA', 'DD', 'HH' ],
+    valvesHuman: [ 'AA', 'DD' ],
+    valvesElephant: [ 'AA', 'HH' ]
+  },
+  {
+    potentialPressure: 963,
+    valves: [ 'AA', 'DD', 'JJ' ],
+    valvesHuman: [ 'AA', 'DD' ],
+    valvesElephant: [ 'AA', 'JJ' ]
+  },
+  {
+    potentialPressure: 381,
+    valves: [ 'AA', 'EE', 'BB' ],
+    valvesHuman: [ 'AA', 'EE' ],
+    valvesElephant: [ 'AA', 'BB' ]
+  },
+  {
+    potentialPressure: 115,
+    valves: [ 'AA', 'EE', 'CC' ],
+    valvesHuman: [ 'AA', 'EE' ],
+    valvesElephant: [ 'AA', 'CC' ]
+  },
+  {
+    potentialPressure: 549,
+    valves: [ 'AA', 'EE', 'DD' ],
+    valvesHuman: [ 'AA', 'EE' ],
+    valvesElephant: [ 'AA', 'DD' ]
+  },
+  {
+    potentialPressure: 509,
+    valves: [ 'AA', 'EE', 'HH' ],
+    valvesHuman: [ 'AA', 'EE' ],
+    valvesElephant: [ 'AA', 'HH' ]
+  },
+  {
+    potentialPressure: 552,
+    valves: [ 'AA', 'EE', 'JJ' ],
+    valvesHuman: [ 'AA', 'EE' ],
+    valvesElephant: [ 'AA', 'JJ' ]
+  },
+  {
+    potentialPressure: 752,
+    valves: [ 'AA', 'HH', 'BB' ],
+    valvesHuman: [ 'AA', 'HH' ],
+    valvesElephant: [ 'AA', 'BB' ]
+  },
+  {
+    potentialPressure: 486,
+    valves: [ 'AA', 'HH', 'CC' ],
+    valvesHuman: [ 'AA', 'HH' ],
+    valvesElephant: [ 'AA', 'CC' ]
+  },
+  {
+    potentialPressure: 920,
+    valves: [ 'AA', 'HH', 'DD' ],
+    valvesHuman: [ 'AA', 'HH' ],
+    valvesElephant: [ 'AA', 'DD' ]
+  },
+  {
+    potentialPressure: 509,
+    valves: [ 'AA', 'HH', 'EE' ],
+    valvesHuman: [ 'AA', 'HH' ],
+    valvesElephant: [ 'AA', 'EE' ]
+  },
+  {
+    potentialPressure: 923,
+    valves: [ 'AA', 'HH', 'JJ' ],
+    valvesHuman: [ 'AA', 'HH' ],
+    valvesElephant: [ 'AA', 'JJ' ]
+  },
+  {
+    potentialPressure: 795,
+    valves: [ 'AA', 'JJ', 'BB' ],
+    valvesHuman: [ 'AA', 'JJ' ],
+    valvesElephant: [ 'AA', 'BB' ]
+  },
+  {
+    potentialPressure: 529,
+    valves: [ 'AA', 'JJ', 'CC' ],
+    valvesHuman: [ 'AA', 'JJ' ],
+    valvesElephant: [ 'AA', 'CC' ]
+  },
+  {
+    potentialPressure: 963,
+    valves: [ 'AA', 'JJ', 'DD' ],
+    valvesHuman: [ 'AA', 'JJ' ],
+    valvesElephant: [ 'AA', 'DD' ]
+  },
+  {
+    potentialPressure: 552,
+    valves: [ 'AA', 'JJ', 'EE' ],
+    valvesHuman: [ 'AA', 'JJ' ],
+    valvesElephant: [ 'AA', 'EE' ]
+  },
+  {
+    potentialPressure: 923,
+    valves: [ 'AA', 'JJ', 'HH' ],
+    valvesHuman: [ 'AA', 'JJ' ],
+    valvesElephant: [ 'AA', 'HH' ]
+  }
+]
